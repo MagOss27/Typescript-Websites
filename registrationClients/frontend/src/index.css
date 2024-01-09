@@ -1,3 +1,7 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* Arquivo styles.css */
+
+@tailwind base; /* Inclui os estilos base do Tailwind */
+@tailwind components; /* Inclui os estilos dos componentes do Tailwind */
+@tailwind utilities; /* Inclui as classes utilitárias do Tailwind */
+
+/* Outros estilos personalizados ou adicionais podem vir após as diretivas do Tailwind */
